@@ -8,10 +8,15 @@ Start with having all three files in the same directory.
 Run the driver file to make it rain!
 
 Parameters:
+
 Line 3 - Change the second number for number of random walkers
+
 Lines 9 to 12 - Control the bins (left and right movement) of random walker movement
+
 Line 19 and 20 - First bias function control
+
 Line 28 -  Second bias function control
+
 Line 33 - Change for loop iterations for duration of snow flake falls. 
 
 The motion of the snowflakes is captured randomly from a random number generated from MATLAB. Snowflakes have the ability to fall down, left, and right. They have the independence to also travel fall down and either left or right as well as varying distances to the left, right, and downwards. 
